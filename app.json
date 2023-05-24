@@ -4,7 +4,16 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "RN_Job_App",
-    "slug": "RN_Job_App"
+    "name": "Joli",
+    "slug": "Joli",
+    "icon": "./assets/icons/app-icon.png",
+    "extra": {
+      "eas": {
+        "projectId": "fa1c922b-2884-4c97-b9b0-a5a401681d51"
+      }
+    },
+    "android": {
+      "package": "com.trueghost.Joli"
+    }
   }
 }
